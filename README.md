@@ -7,6 +7,11 @@ Released under the MIT License
 
 A text-only method of interacting with the Refugees United system. Users can send several different text commands and receive a text-only response back. This system requires a seperate module to provide the interaction bridge between the communication channel (ie. SMS Chat, Voice Recognition) and this system. We've written our 'adapters' in Python and Ruby, however you can use anything that supports sending POST requests (cURL).
 
+## Available Interaction Modules ##
+
+* [SMS](http://github.com/toastwaffle/refutdcli-twilio)
+* [XMPP](http://github.com/toastwaffle/refutdcli-xmpp)
+
 ## Installation & Usage ##
 
 ### To install: ###
