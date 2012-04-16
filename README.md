@@ -11,6 +11,7 @@ A text-only method of interacting with the Refugees United system. Users can sen
 
 * [SMS](http://github.com/toastwaffle/refutdcli-twilio)
 * [XMPP](http://github.com/toastwaffle/refutdcli-xmpp)
+* [Terminal (Comedy Hack)](http://github.com/CraigSnowden/refunited-terminal)
 
 ## Installation & Usage ##
 
